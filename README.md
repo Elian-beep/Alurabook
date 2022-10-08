@@ -2,7 +2,7 @@
 
 | :placard: Vitrine.Dev |     |
 | -------------  | --- |
-| :sparkles: Nome        | **Titulo do meu projeto**
+| :sparkles: Nome        | **Alurabook**
 | :label: Tecnologias | html, css
 | :rocket: URL         | https://alurabook-eight.vercel.app/
 | :fire: Desafio     | Alura - Formação Front End
